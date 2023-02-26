@@ -1,0 +1,14 @@
+prefix=/Users/kinhanglo/Desktop/machine-learning/Machine-Learning-environment/Scikit-learn-project/env
+exec_prefix=/Users/kinhanglo/Desktop/machine-learning/Machine-Learning-environment/Scikit-learn-project/env
+libdir=/Users/kinhanglo/Desktop/machine-learning/Machine-Learning-environment/Scikit-learn-project/env/lib
+includedir=/Users/kinhanglo/Desktop/machine-learning/Machine-Learning-environment/Scikit-learn-project/env/include
+
+Name: FreeType 2
+URL: https://freetype.org
+Description: A free, high-quality, and portable font engine.
+Version: 24.3.18
+Requires: 
+Requires.private: 
+Libs: -L/Users/kinhanglo/Desktop/machine-learning/Machine-Learning-environment/Scikit-learn-project/env/lib -lfreetype
+Libs.private: -lz -L/Users/kinhanglo/Desktop/machine-learning/Machine-Learning-environment/Scikit-learn-project/env/lib -lpng16 -lz
+Cflags: -I${includedir}/freetype2

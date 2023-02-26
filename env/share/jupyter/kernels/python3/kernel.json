@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "/Users/kinhanglo/Desktop/machine-learning/Machine-Learning-environment/Scikit-learn-project/env/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
